@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/583203e6eb35d7980400002a
+
 # DESCRIPTION:
 # Given an array (arr) as an argument complete the function countSmileys that should return the total number of smiling faces.
 
