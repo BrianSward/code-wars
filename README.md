@@ -10,7 +10,7 @@ Check out my progress [here](https://www.codewars.com/users/BSward)
 
 ### 4/13/2023
 
-- 
+- Made it to 5th Kyu!
 
 ### 4/12/2023
 
