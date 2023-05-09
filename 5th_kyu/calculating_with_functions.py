@@ -93,6 +93,18 @@ def times(num):
 def divided_by(num):
     return f'/ {num}'
 
+def plus(num):
+    return f'+ {num}'
+def minus(num): 
+    return f'- {num}'
+def times(num):
+    return f'* {num}'
+def divided_by(num):
+    return f'/ {num}'
+
+
+
+
 def _helper(option, _num):
     scratch_pad = int(option[-1])
     if option[0] == "+":
